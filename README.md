@@ -1,4 +1,4 @@
-# 
+# Django Graphql Queries
 Initial version of the api
 
 ## Development setup
